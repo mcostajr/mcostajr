@@ -1,11 +1,4 @@
 # Mauro Freire
-<div align="center">
-  <a href="https://github.com/mcostajr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcostajr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcostajr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-
 <div>
 	<a href="https://www.linkedin.com/in/maurofreirejr/"><img src="https://img.shields.io/badge/-Mauro%20Freire-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurofreirejr/"/></a>
 	<a href="mailto:maurofreirejr@gmail.com"><img src="https://img.shields.io/badge/-maurofreirejr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maurofreirejr@gmail.com"/></a>
